@@ -1,0 +1,44 @@
+COMANDO BASICOS NO TERMINAL
+
+navegação windows
+cd - abrir diretorio
+dir - listar pastas presente no diretorio
+mkdir - criar diretorio
+del - deletar arquivos dentro de uma pasta
+rmdir - deletar um diretório inteiro
+
+
+navegação Unix
+cd - abrir diretorio
+ls - listar pastas presente no diretorio
+mkdir - criar diretorio
+rm -rf
+
+sinal > atribui o echo a um arquivo
+
+clear limpa tela no UNIX
+cls limpa a tela no windows
+cd .. para retroceder 1 pasta
+
+TAB autocomplementa com nome de pasta existente
+Control L limpa no unix
+
+TOPICOS FUNDAMENTAIS
+
+SHA1 - algoritmo de criptação, hash seguro. um conjunto de funções hash criptograficas projetadas pela NSA - 40 digitos seguro
+OBJETOS FUNDAMENTAIS - 
+SISTEMAS DISTRIBUIDOS - 
+SEGURANÇA - 
+
+hash-object - funcao do git
+--stdin - espera receber um arquivo de texto
+objetos 
+
+blob - objeto metadados do git armazenam
+tree - armazenam blobs e apontando para diferentes blobs - tambem guarda nome do arquivo, toda estrutura - também aponta para outras arvores (tree)
+commit - objeto princpal - junta todas as alterações, aponta para uma arvore, um parente, autor, mensaem, timestamp (hora e data de quando foi criado)
+também possui sha1
+
+CHAVES SSH e TOKENS
+
+SSH -  Uma forma segura e encriptada de se comunicar com 2 maquinas, com chave publica e chave privada
