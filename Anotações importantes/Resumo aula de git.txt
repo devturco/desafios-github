@@ -42,3 +42,10 @@ também possui sha1
 CHAVES SSH e TOKENS
 
 SSH -  Uma forma segura e encriptada de se comunicar com 2 maquinas, com chave publica e chave privada
+
+comandos para commitar
+
+git add . - coloca todos os arquivos que não foram pra nuvem em modo PRONTO
+git status - verifica se está verde e pronto para subir
+git commit -m "descrição" - prepara tudo para subir
+git push origin main - envia para o repo
